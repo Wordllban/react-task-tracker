@@ -11,6 +11,12 @@
       "text": "Team meeting",
       "day": "Feb 6th at 9pm",
       "reminder": true
+    },
+    {
+      "text": "Take test",
+      "day": "Friday",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
